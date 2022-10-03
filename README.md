@@ -1,14 +1,14 @@
 # oci-functions
 OCI Fn Functions used for hands-on lab practices in the OCI Developer Pro course
 
-hello-python: A simple Hello World function - used for Lab 06 & Lab 08
+<b>hello-python:</b> A simple Hello World function - used for Lab 06 & Lab 08
 
-custom-docker: Files associated with a function that requires a custom Dockerfile - used for Lab 07
+<b>custom-docker:</b> Files associated with a function that requires a custom Dockerfile - used for Lab 07
 
-request-info: A function that returns HTTP request info and function info - used for Lab 09
+<b>request-info:</b> A function that returns HTTP request info and function info - used for Lab 09
 
-API-specs: A folder containing an OpenAPIv3.0 spec - used for Lab 10
+<b>API-specs:</b> A folder containing an OpenAPIv3.0 spec - used for Lab 10
 
-create-file: A function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
+<b>create-file:</b> A function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
 
-event-fn: A function that processes image metadata when triggered by a CloudEvent - used for Lab 12
+<b>event-fn:</b> A function that processes image metadata when triggered by a CloudEvent - used for Lab 12
