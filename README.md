@@ -1,5 +1,5 @@
 # oci-functions
-OCI Fn Functions used for hands-on lab practices in the OCI Developer Pro course
+OCI Fn functions and resources used for hands-on lab practices in the OCI Developer Professional course
 
 <b>hello-python:</b> A simple Hello World function - used for Lab 06 & Lab 08
 
