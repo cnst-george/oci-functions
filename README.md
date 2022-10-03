@@ -7,6 +7,8 @@ custom-docker: Files associated with a function that requires a custom Dockerfil
 
 request-info: A function that returns HTTP request info and function info - used for Lab 09
 
+API-specs: A folder containing an OpenAPIv3.0 spec - used for Lab 10
+
 create-file: A function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
 
 event-fn: A function that processes image metadata when triggered by a CloudEvent - used for Lab 12
