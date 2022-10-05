@@ -9,7 +9,7 @@ OCI Fn functions and resources used for hands-on lab practices in the OCI Develo
 
 <b>API-specs:</b> A folder containing an OpenAPIv3.0 description for the PetStore API - used for Lab 10
 
-<b>create-file:</b> A Java function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
+<b>create-file:</b> A Java function that writes to an OCI Stream and Object Storage bucket - used for Lab 11
 
 <b>event-fn:</b> A Java function that processes image metadata when triggered by a CloudEvent - used for Lab 12
 
