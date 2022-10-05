@@ -3,7 +3,7 @@ OCI Fn functions and resources used for hands-on lab practices in the OCI Develo
 
 <b>hello-python:</b> A Python Hello World function - used for Lab 06 & Lab 08
 
-<b>custom-docker:</b> A Python function that requires editing a custom Dockerfile - used for Lab 07
+<b>custom-docker:</b> A Node function that requires editing a custom Dockerfile - used for Lab 07
 
 <b>request-info:</b> A Java function that returns HTTP request info and function info - used for Lab 09
 
