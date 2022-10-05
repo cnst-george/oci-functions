@@ -7,7 +7,7 @@ OCI Fn functions and resources used for hands-on lab practices in the OCI Develo
 
 <b>request-info:</b> A Python function that returns HTTP request info and function info - used for Lab 09
 
-<b>API-specs:</b> A folder containing an OpenAPIv3.0 specification document - used for Lab 10
+<b>API-specs:</b> A folder containing an OpenAPIv3.0 description for the PetStore API - used for Lab 10
 
 <b>create-file:</b> A Java function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
 
