@@ -12,3 +12,5 @@ OCI Fn functions and resources used for hands-on lab practices in the OCI Develo
 <b>create-file:</b> A function that writes a file to an object storage bucket and writes info to an OCI Stream - used for Lab 11
 
 <b>event-fn:</b> A function that processes image metadata when triggered by a CloudEvent - used for Lab 12
+
+<b>hello-node-test:</b> A Node Hello World function setup for testing with Jest - used for Lab 13
