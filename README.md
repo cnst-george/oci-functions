@@ -14,3 +14,5 @@ OCI Fn functions and resources used for hands-on lab practices in the OCI Develo
 <b>event-fn:</b> A Java function that processes image metadata when triggered by a CloudEvent - used for Lab 12
 
 <b>hello-node-test:</b> A Node Hello World function setup for testing with Jest - used for Lab 13
+
+<b>vault-secret:</b> A Python function that retrieves a secret from an OCI Vault - used for Lab 14
