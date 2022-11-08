@@ -2,7 +2,7 @@ openapi: "3.0.0"
 info:
   version: 1.0.0
   title: Swagger Petstore
-  description: A sample API that uses a petstore as an example
+  description: A sample API that uses a petstore as an example of an Open API v3
   termsOfService: http://swagger.io/terms/
   contact:
     name: Swagger API Team
