@@ -8,7 +8,7 @@ fdk.handle(function(input){
   if (input.name) {
     name = input.name;
   }
-  console.log('\nInside the Node Hello World function!')
+  console.log('\nInside Node Hello World function')
 
   return {'message': 'Hello ' + name}
   // To pass both tests, remove or comment the line above and uncomment the line below
