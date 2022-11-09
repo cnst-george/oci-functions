@@ -139,8 +139,6 @@ components:
       properties:
         name:
           type: string
-        owner:
-          type: string
         tag:
           type: string    
 
